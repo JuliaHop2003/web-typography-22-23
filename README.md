@@ -105,4 +105,4 @@ Op het eind zijn de lettertypes hetzelfde, alleen is alles schuingerukt om aan t
 Tijdens het eerste voortgangsgesprek had ik nog niet heel veel, maar kreeg ik wel alvast te horen waar ik op kan letten, zoals dat bijvoorbeeld "Fuck off, Skinjob!" best wel zacht wordt gezegd en dat je moet letten op dat je de video visualiseert en niet de tekst. Dus dit heb ik vermeden toen ik verder ging met mijn proces.
 
 2e voortgangsgesprek:
-Tijdens het 2e voortgangsgesprek heb ik de vraag gekregen of de kleuren niet te fel zijn tijdens de 'post-traumatic baseline test'. Na deze feedback heb ik de kleuren wat donkerder gemaakt, omdat dat beter past bij de vibe van de film. Ook blijft ondanks de donkere kleuren het knipperende effect nog hetzelfde.
+Tijdens het 2e voortgangsgesprek heb ik de vraag gekregen of de kleuren niet te fel zijn tijdens de 'post-traumatic baseline test'. Na deze feedback heb ik de kleuren wat donkerder gemaakt, omdat dat beter past bij de vibe van de film. Ook blijft ondanks de donkere kleuren het knipperende effect nog hetzelfde. Doordat de kleuren wat donker zijn geworden, heb ik de tekst aangepast naar wit.
