@@ -81,22 +81,108 @@ You probably want to change the styling.
 	transition: 0s 3.7s;
 }
 
-/* .p1.on {
-	background: hotpink;
-	color: red;
+.p10.on {
+	color: white;
 }
-.p1 span {
-	opacity: 0;
-	font-family: "Brenner Sans";
+.p11.on {
+	color: white;
 }
-.p1.on span:first-of-type {
-	opacity: 1;
-	font-weight: 400;
+.p12.on {
+	color: white;
 }
-.p1.on span:nth-of-type(2) {
-	opacity: 1;
-	font-weight: 400;
-} */
+.p13.on {
+	color: white;
+}
+.p14.on {
+	color: white;
+}
+.p15.on {
+	color: white;
+}
+.p16.on {
+	color: white;
+}
+.p17.on {
+	color: white;
+}
+.p18.on {
+	color: white;
+}
+.p19.on {
+	color: white;
+}
+.p20.on {
+	color: white;
+}
+.p21.on {
+	color: white;
+}
+.p22.on {
+	color: white;
+}
+.p23.on {
+	color: white;
+}
+.p24.on {
+	color: white;
+}
+.p25.on {
+	color: white;
+}
+.p26.on {
+	color: white;
+}
+.p27.on {
+	color: white;
+}
+.p28.on {
+	color: white;
+}
+.p29.on {
+	color: white;
+}
+.p30.on {
+	color: white;
+}
+.p31.on {
+	color: white;
+}
+.p32.on {
+	color: white;
+}
+.p33.on {
+	color: white;
+}
+.p34.on {
+	color: white;
+}
+.p35.on {
+	color: white;
+}
+.p36.on {
+	color: white;
+}
+.p37.on {
+	color: white;
+}
+.p38.on {
+	color: white;
+}
+.p39.on {
+	color: white;
+}
+.p40.on {
+	color: white;
+}
+.p41.on {
+	color: white;
+}
+.p42.on {
+	color: white;
+}
+.p43.on {
+	color: white;
+}
 
 .voice1 {
 	font-family: "Brenner Slab"; 
@@ -117,7 +203,7 @@ You probably want to change the styling.
 }
 
 .voice4 {
-	font-family: "Brenner Sans Condensed"; 
+	font-family: "Brenner Mono"; 
 	font-style: Normal;
 	font-weight: 400;
 }
@@ -383,13 +469,13 @@ Sounds.
 
 @keyframes pulse {
 	0%, 100%  {
-	  background-color: lime;
+	  background-color: #00a300;
 	}
 	33% {
-	  background-color: blue;
+	  background-color: #0000a3;
 	}
 	66% {
-	  background-color: #ff0080;
+	  background-color: #a30052;
 	}
 }
 

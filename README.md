@@ -81,3 +81,28 @@ Voor een goede onderbouwing van je keuze voor een ander fragment moet je deze vr
 Je kan dan de nodige HTML en JavaScript genereren door gebruik te maken van [caption generator](https://cmda-minor-vid.github.io/web-typography-18-19/generator/) (in Google Chrome). 
 
 Als je de closed captions wil bewerken dan kan je een tool zoals [Amber Script](https://www.amberscript.com/en) gebruiken. Daar kan je exporteren als `.srt`, en die kan je weer door de generator halen.
+
+### Ontwerpkeuzes.
+Bij het eerste geluid moest ik denken aan een knop die wordt ingedrukt door iemand waarna je een soort alarmgeluid hoort, dus daarom heb ik ervoor gekozen om een rode knop te visualiseren met een dropshadow eromheen als 'feedback' dat de knop wordt ingedrukt.
+
+Het tweede geluid is een soort van sirene, dus daarom heb ik een blauwe sirene gevisualiseerd door de video rond te laten draaien en de kleur te laten faden van blauw naar lichtblauw. In het echt draait het blauwe licht/de sirena namelijk ook rond.
+
+Het derde geluid is een trillend en een beetje een duister geluid, dus daarom heb ik de achtergrond donkergrijs gemaakt en laat ik de video trillen.
+
+Het vierde geluid is een soort van laser geluid die aan het eind iets harder klinkt, dus daarom laat ik de video inzoomen en heb ik een laserstraal gevisualiseerd door het te laten flikkeren.
+
+Bij het vijfde geluid is er een soort van angstig geluid en blauw is de kleur van angst, dus daarom heb ik voor die kleur gekozen en ik laat de video bouncen om aan te geven dat Skinjob's hart tekeer gaat van spanning/angst.
+
+Tijdens de baseline test begin ik met verschillende kleuren die langzaam in elkaar faden om aan te geven dat 'Skinjob' in een sessie/eigen space zit. Wanneer de piep harder wordt beginnen de kleuren wat sneller te flikkeren en op het eind flikkert het nog veel sneller en ziet het er spacend uit door al die kleuren. Ook wordt langzaam de video groter, dus wanneer het geluid stopt en er een stilte valt, gaat de video weer terug naar zijn eigen grootte.
+
+Op het eind zie je een soort van herinning van een eerdere test, maar die test ging fout, dus daarom gaat de kleur van wit naar zwart om aan te geven dat de test op het eind fout gaat en de video klaar is.
+
+Qua tekst heeft iedere stem een eigen lettertype. Voice1 klinkt bazig en heeft een normale toonhoogte, dus daarom heeft die het normale Brenner font met de schreven eraan om het een wat duurdere/bazige uitstraling te geven. Voice2 oftewel Skinjob praat een beetje zonder emotie, maar heeft wel een normale toonhoogte, dus ik heb Brenner Sans gegeven, omdat Brenner Sans geen schreven etc. heeft. Voice3 klinkt agressief, maar heeft een lage toonhoogte, dus daarom heb ik Brenner Light gekozen, omdat Brenner Light als agressief kan worden gezien vanwege alle schreven en de light versie als zacht praten kan worden ervaren. Dan is er ook nog een voice5. Voice5 klinkt een beetje computerachtig, dus daarom heb ik gekozen voor Brenner Mono, omdat mono wordt gebruikt voor bijvoorbeeld coderen en daarom ook computerachtig is. 
+
+Op het eind zijn de lettertypes hetzelfde, alleen is alles schuingerukt om aan te geven dat dit een herinning/oud fragment is.
+
+1e voortgangsgesprek:
+Tijdens het eerste voortgangsgesprek had ik nog niet heel veel, maar kreeg ik wel alvast te horen waar ik op kan letten, zoals dat bijvoorbeeld "Fuck off, Skinjob!" best wel zacht wordt gezegd en dat je moet letten op dat je de video visualiseert en niet de tekst. Dus dit heb ik vermeden toen ik verder ging met mijn proces.
+
+2e voortgangsgesprek:
+Tijdens het 2e voortgangsgesprek heb ik de vraag gekregen of de kleuren niet te fel zijn tijdens de 'post-traumatic baseline test'. Na deze feedback heb ik de kleuren wat donkerder gemaakt, omdat dat beter past bij de vibe van de film. Ook blijft ondanks de donkere kleuren het knipperende effect nog hetzelfde.
